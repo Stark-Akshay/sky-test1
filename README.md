@@ -1,8 +1,8 @@
-# Dynamic Banner Animation Project
+# Dynamic Banner Animation Project using GSAP
 
 ## Description
 
-This project is a small web application that demonstrates how to create dynamic banner animations using HTML, CSS, and JavaScript. The banners display text content and transition between different messages in an animated manner.
+This project is a small web application that demonstrates how to create dynamic banner animations using HTML, CSS, and JavaScript and GSAP. The banners display text content and transition between different messages in an animated manner.
 
 ## Features
 
